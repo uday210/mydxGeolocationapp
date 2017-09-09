@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1504967126207,
-            "changeTime": 1504967126207,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "modifiedTime": 1504966355930,
+            "changeTime": 1504966355930,
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2"
         }
     ],
     [
@@ -48,12 +48,13 @@
             "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1504966644595,
-            "changeTime": 1504966644595,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "modifiedTime": 1504963752919,
+            "changeTime": 1504963752919,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -62,12 +63,13 @@
             "sourcePath": "C:\\Users\\GlobalNest\\geolocation",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1504965996317,
-            "changeTime": 1504965996317,
-            "contentHash": "9ac00caf0d373ab51fe4bcab768d93100c92454f",
+            "modifiedTime": 1504963820701,
+            "changeTime": 1504963820701,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -710,53 +712,53 @@
     [
         "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 22593,
+            "modifiedTime": 1504965236183,
+            "changeTime": 1504965236183,
+            "contentHash": "839f2e9bcefb584515dc841bc3243de4b84b5e8e",
             "isMetadataFile": true,
-            "size": 18117,
-            "modifiedTime": 1504967126220,
-            "changeTime": 1504967126220,
-            "contentHash": "510a42b88c0950427ab4ec7aa558588c9cc360bf"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10140,
+            "modifiedTime": 1504965236187,
+            "changeTime": 1504965236187,
+            "contentHash": "6f2c71cbf02851393eb071c385354953a88b5db0",
             "isMetadataFile": true,
-            "size": 5663,
-            "modifiedTime": 1504967126223,
-            "changeTime": 1504967126223,
-            "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10476,
+            "modifiedTime": 1504965236193,
+            "changeTime": 1504965236193,
+            "contentHash": "b7eb0e8944a3429ae106b5751e08dce4b00e23ed",
             "isMetadataFile": true,
-            "size": 5999,
-            "modifiedTime": 1504967126225,
-            "changeTime": 1504967126225,
-            "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10136,
+            "modifiedTime": 1504965236197,
+            "changeTime": 1504965236197,
+            "contentHash": "5d37e7ec4d49f2782cdc5ee0cb693e27ad2140ec",
             "isMetadataFile": true,
-            "size": 5659,
-            "modifiedTime": 1504967126227,
-            "changeTime": 1504967126227,
-            "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290"
+            "state": "u"
         }
     ],
     [
@@ -879,157 +881,40 @@
     [
         "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\classes",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1504966356013,
             "changeTime": 1504966356013,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1504966419914,
             "changeTime": 1504966419914,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
         }
     ],
     [
         "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1504966356054,
             "changeTime": 1504966356054,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
-        {
-            "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1504966644636,
-            "changeTime": 1504966644636,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-        {
-            "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-            "isDirectory": false,
-            "size": 155,
-            "modifiedTime": 1504966670634,
-            "changeTime": 1504966670634,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1504966644615,
-            "changeTime": 1504966644615,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-        {
-            "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-            "isDirectory": false,
-            "size": 91,
-            "modifiedTime": 1504966692635,
-            "changeTime": 1504966692635,
-            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-        {
-            "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1504966644630,
-            "changeTime": 1504966644630,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-        {
-            "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1504966644632,
-            "changeTime": 1504966644632,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-        {
-            "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1504966644637,
-            "changeTime": 1504966644637,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 275,
-            "modifiedTime": 1504967126214,
-            "changeTime": 1504967126214,
-            "contentHash": "51830103cb8aef92525ec4e3a111164fd5f6d038"
-        }
-    ],
-    [
-        "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\tabs",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\GlobalNest\\geolocation\\force-app\\main\\default\\tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1504967126209,
-            "changeTime": 1504967126209,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
         }
     ]
 ]
